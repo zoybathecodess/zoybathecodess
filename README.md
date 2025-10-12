@@ -9,9 +9,9 @@
 ---
 
 ### 🌠 About Me
-- 💻 Passionate about **AI, Data Science**, and how technology connects with the universe   
-- 🌱 Currently learning **Data Science** and **DSA in Java**  
-- ⚙️ I enjoy solving problems, exploring new ideas, and building cool projects  
+💻 Passionate about **AI, Data Science**, and how technology connects with the universe   
+🌱 Currently learning **Data Science** and **DSA in Java**  
+⚙️ I enjoy solving problems, exploring new ideas, and building cool projects  
 
 ---
 
