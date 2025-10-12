@@ -8,14 +8,14 @@
 
 ---
 
-### 🌠 About Me
+## About Me
 💻 Passionate about **AI, Data Science**, and how technology connects with the universe   
 🌱 Currently learning **Data Science** and **DSA in Java**  
 ⚙️ I enjoy solving problems, exploring new ideas, and building cool projects  
 
 ---
 
-### 🧠 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Java](https://img.shields.io/badge/Java-1E1E2E?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-1E1E2E?style=for-the-badge&logo=c&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zoybathecodess&show_icons=true&theme=midnight-purple&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoybathecodess&layout=compact&theme=midnight-purple&hide_border=true" height="165">
@@ -34,7 +34,7 @@
 
 ---
 
-### 💫 Connect With Me
+## 💫 Connect With Me
 <p align="center">
   <a href="www.linkedin.com/in/zoybaparihan"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
 
@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <em>"Stay curious, stay cosmic." ✨</em>
+  <em>Stay curious, stay cosmic✨</em>
 </p>
