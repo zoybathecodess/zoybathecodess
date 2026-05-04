@@ -24,15 +24,14 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-1E1E2E?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7)
 
 
+## Major Projects
+
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zoybathecodess&theme=tokyonight&hide_border=true" height="165"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoybathecodess&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
----
 
 ## 💫 Connect With Me
 <p align="center">
@@ -44,5 +43,5 @@
 ---
 
 <p align="center">
-  <em>Stay curious, stay cosmic✨</em>
+  <em>Stay curious, stay cosmic.</em>
 </p>
