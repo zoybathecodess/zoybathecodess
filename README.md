@@ -28,16 +28,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zoybathecodess&show_icons=true&theme=midnight-purple&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoybathecodess&layout=compact&theme=midnight-purple&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=zoybathecodess&theme=tokyonight&hide_border=true" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoybathecodess&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 ---
 
 ## 💫 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/zoybaparihan"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
-
+  <a href="https://www.linkedin.com/in/zoybaparihan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
 </p>
 
 ---
